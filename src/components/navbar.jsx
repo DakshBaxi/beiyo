@@ -7,7 +7,7 @@ function navbar() {
                 <img src={logo} alt=""/>
                 <ul>
                 <a href="">  <li><p>Hostel</p></li></a>
-                <a href="">  <li><p>List</p></li></a>
+                <a href="">  <li><p>List Property</p></li></a>
                 <a href="">  <li><p>Join Our Waitlist</p></li></a>
                 </ul>
   </div>

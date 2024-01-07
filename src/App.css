@@ -21,7 +21,7 @@ body{
   justify-content: space-between;
   overflow: hidden;
   align-items: center;
- transition: 1s all ease;
+  transition: 1s all ease;
 }
 .whatsapp img{
   height: 40px;
