@@ -1,0 +1,38 @@
+.center{
+    min-height: 90vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 2vh 0vw;
+    padding-bottom: 4vh;
+    align-items: flex-end;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+.left{
+    font-size: 3vw;
+     width: 80vw;
+    position: absolute; 
+    line-height: 17vh;
+    position: absolute;
+    left: 3%;
+ 
+}
+.left h1{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    word-spacing: 0vw;
+    /* text-align: left; */
+}
+
+.right{
+    padding-bottom: 20vh;
+    position: absolute;
+    right: 3%;
+}
+.right h4{
+    font-size: 2vw;
+    text-align: right;
+    width: 35vw;
+}

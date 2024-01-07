@@ -1,0 +1,41 @@
+.testimonial{
+    min-height: 70vh;
+    width: 100%;
+    margin-top: 10vh;
+
+}
+.testimonial h1{
+    font-size: 3vh;
+    text-align: left;
+    margin-left: 20px;
+}
+.swipersection{
+    margin-top: 5vh;
+   
+}
+.swiper{
+    width: 100%;
+    display: flex;
+  }
+  .swiper-scrollbar{
+    display: none;
+  }
+  .swiper:hover{
+    cursor: grab;
+  }
+
+  .swiper-slide {
+        height: auto;
+        padding: 0 3vw;
+        padding-right: 7vw;
+        border-left: 1px solid black;
+        display: inline-block;
+  }
+  .swiper-slide:nth-child(1){
+    margin-left: 3vw;
+  }
+
+  .swiper-slide img {
+        height: 10vh;
+        width: 10vw;
+  }
